@@ -1,0 +1,5 @@
+com\axonactive\common\util\GenericBuilderTest.class
+com\axonactive\common\util\Person.class
+com\axonactive\common\util\search\InMemorySearcherTest.class
+com\axonactive\common\util\search\IotDevice.class
+com\axonactive\common\util\FileUtilsTest.class
